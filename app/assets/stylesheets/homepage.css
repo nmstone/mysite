@@ -1,0 +1,11 @@
+.me {
+	align: right;
+	width= 200px;
+	length= 400px;
+}
+
+.me_text {
+	text-align: right;
+	font-family: Arial;
+	color: white;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stonesite</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <link rel="shortcut icon" href="/assets/favicon2.ico" type="image/x-icon">
+	<link rel="icon" href="/assets/favicon2.ico" type="image/x-icon">
+  <%= csrf_meta_tags %>
+</head>
+	<body style="background-color:lightgrey">
+		<div id="top_banner">
+			<table>
+				<tr>
+					<td>
+						<div id="banner_button">
+							<img class="logo_bro" src="/assets/flavicon_site.png"></img>
+						</div>
+					</td>
+					<td>
+						<div id="banner_button">
+							<a href="/" id="homelink">Home</a>
+						</div>
+					</td>
+					<td>
+						<div id="banner_button"> 
+							<a href="/about" id="homelink">Projects</a>
+						</div> 
+					</td>
+					<td>
+						<div id="banner_button"> 
+							<a href="/resume" id="homelink">Resume</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+
+<%= yield %>
+
+</body>
+</html>

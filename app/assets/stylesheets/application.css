@@ -1,0 +1,192 @@
+html, body {
+    padding-top: 0;
+    margin-top: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#top_banner {
+	length: 1000px;
+	background-color:white;
+}
+
+#banner_button {
+	padding: 10px;
+	text-align:left; 
+	width: 100px;
+	length: 200px;
+	background-color: white;
+	text-align:center;
+}
+
+#homelink {
+	text-align:center;
+	text-decoration: none;
+	font-weight: bold;
+	color: rgb(64,64,64);
+}
+
+* {
+	text-align:center;
+	font-family: Arial;
+}
+
+.me {
+	position: relative;
+}
+
+.me_pic {
+	float:left;
+	height:auto;
+	width:auto;
+	max-width:450px;
+	max-height:556px
+}
+
+.me_text {
+	position: absolute;
+	top: 330px;
+	border-left: 50px solid rgb(64,64,64);
+	border-top: 1px solid rgb(64,64,64);
+	opacity: 0.85;
+}
+.me2_text {
+	position: absolute;
+	top: 390px;
+	border-left: 8px solid rgb(64,64,64);
+	//border-top: 1px solid rgb(64,64,64);
+	opacity: 0.85;
+}
+
+h2 span {
+    color: white; 
+    font: bold 20px/45px Helvetica, Sans-Serif; 
+    letter-spacing: -1px;  
+    background: rgb(64,64,64);
+    padding: 11px;
+}
+
+h1 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(64,64,64);
+   padding: 9px; 
+}
+
+.mealbuzz_pic {
+	float:right;
+	height:auto;
+	width:auto;
+	max-width:536px;
+	max-height:600px
+}
+
+.mealbuzz_text {
+	margin-left: 371px;
+	position: absolute;
+	top: 205px;
+	border-left: 31px solid rgb(64,64,64);
+	border-top:1px solid rgb(64,64,64);
+	opacity:0.85;
+}
+
+.picsite_pic {
+	float: right;
+	height:auto;
+	width:auto;
+	max-width:536px;
+	max-height:600px
+}
+
+.picsite_text {
+	margin-left: 371px;
+	position: absolute;
+	top: 550px;
+	border-left: 31px solid rgb(64,64,64);
+	border-top:1px solid rgb(64,64,64);
+	opacity:0.85;
+}
+
+/*a:hover {
+	color: white;
+	opacity: 0.5;
+}*/
+div.mosaic:hover {
+	opacity:0.7;
+}
+
+a:hover {
+	opacity:0.5;
+}
+
+.logo_bro {
+	height:auto;
+	width:auto;
+	max-width:80px;
+	max-height:80px
+}
+
+.aspire_pic {
+	float:left;
+	height:auto;
+	width:auto;
+	max-width:371px;
+	max-height:556px
+}
+
+.aspire_text {
+	margin-top:660px;
+	position: absolute;
+	border-left: 25px solid rgb(64,64,64);
+	border-top:1px solid rgb(64,64,64);
+	opacity:0.85;
+}
+
+.aspire_text2 {
+	margin-top:706px;
+	position: absolute;
+	border-left: 8px solid rgb(64,64,64);
+	border-top:1px solid rgb(64,64,64);
+	opacity:0.85;
+	padding-top: -20px;
+}
+
+.last_piece {
+	background-color: white;
+	float:right;
+	width:536px;
+	height:202px;
+	//opacity:0.8;
+}
+
+.contact_head {
+	margin-left: 10px;
+	float:left;
+	color:black;
+}
+
+.github_text {
+	float:left;
+	margin-top: 20px;
+	height:auto;
+	width:auto;
+	max-width:70px;
+	max-height:50px
+}
+
+.github_pic {
+	float:left;
+	margin-top: 20px;
+	margin-left: 20px;
+	height:auto;
+	width:auto;
+	max-width:30px;
+	max-height:30px
+}
+
+
+
+
+
+
