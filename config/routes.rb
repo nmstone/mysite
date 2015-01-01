@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  get '/about' => 'sites#about'
+  get '/projects' => 'sites#about'
   get '/resume' => 'sites#resume'
   root 'sites#homepage'
 
