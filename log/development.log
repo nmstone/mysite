@@ -31617,3 +31617,51 @@ Started GET "/assets/favicon2.ico" for 127.0.0.1 at 2015-01-01 00:14:52 -0800
 
 
 Started GET "/assets/favicon2.ico" for 127.0.0.1 at 2015-01-01 00:14:52 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+Processing by SitesController#homepage as HTML
+  Rendered sites/homepage.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/flavicon_site.png" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/mealbuzz.png" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/picsite.png" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/github_pic.png" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/aspire.png" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/linkedin_sitelogo.jpg" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/GitHub_Logo.png" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/favicon2.ico" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
+
+
+Started GET "/assets/favicon2.ico" for 127.0.0.1 at 2015-01-01 00:17:21 -0800
